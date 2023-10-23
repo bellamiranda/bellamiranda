@@ -39,7 +39,9 @@ LINKED IN !
 HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-122c
          https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
 -->
+
 --------------------------------------------------------------------------------------------------
+
 <!--
 
 <h2 align="center"><strong>🛠️ Skills</strong> </h2>
@@ -52,7 +54,8 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
     <img src="https://skillicons.dev/icons?i=c,vscode,github,ps,linux" alt="My Skills">
   </a>
 </p>
---------------------------------------------------------------------------------------------------
+
+
 
 <!--
 
@@ -72,9 +75,9 @@ O teu nome guithub e depois na src o link para o repositorio
 --------------------------------------------------------------------------------------------------
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?style=for-the-badge&username=luis-ffe&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?style=for-the-badge&username=bellamiranda&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF" alt="GitHub Stats">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Luis-ffe&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=bellamiranda&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF" alt="Top Languages">
 </div>
 
