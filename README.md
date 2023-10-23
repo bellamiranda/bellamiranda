@@ -40,7 +40,7 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
          https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
 -->
 --------------------------------------------------------------------------------------------------
-
+<!--
 
 <h2 align="center"><strong>🛠️ Skills</strong> </h2>
 
@@ -51,7 +51,7 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
     <img src="https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux" alt="My Skills">
   </a>
 </p>
-
+-->
 
 --------------------------------------------------------------------------------------------------
 
