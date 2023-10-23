@@ -22,30 +22,29 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 
 --------------------------------------------------------------------------------------------------
 
-<p align="center">🌱 I’m currently a <a href="https://www.42porto.com/">42 Porto</a> student by the nickname <code>luis-ffe</code></p>
+<p align="center">🌱 I’m currently a <a href="https://www.42porto.com/">42 Porto</a> student by the nickname <code>ismirand</code></p>
 
 <p align="center">🔭 I’m currently working on ft_printf and get_next_line.</p>
 <p align="center">🤔 I’m looking for help with everything code related !!</p>
 <p align="center">💬 Open to network and future job opportunities.</p>
 
 <p align="center">
-    <a href='https://profile.intra.42.fr/users/luis-ffe' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
+    <a href='https://profile.intra.42.fr/users/ismirand' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
   </a>
   </p>
 
  
 <!-- Usefull links for me and you.
-LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
-
+LINKED IN !   
 HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-122c
          https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
 -->
 --------------------------------------------------------------------------------------------------
 
-<!-- 
+
 <h2 align="center"><strong>🛠️ Skills</strong> </h2>
-SKILL ICONS!
--->
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">
