@@ -44,32 +44,19 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
 
 <h2 align="center"><strong>🛠️ Skills</strong> </h2>
 
+-->
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=c,vscode,github,ps,linux" alt="My Skills">
   </a>
 </p>
--->
-
 --------------------------------------------------------------------------------------------------
 
 <!--
 
-<p float="left" align="center">
-    &nbsp;
-  <a href="https://github.com/luis-ffe/42-Piscine">
-    <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/CoomonCoreBanner.png" width="300"/>
-  </a>
-  &nbsp;
-    <a href="https://github.com/luis-ffe/42-Piscine">
-    <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/piscineBanner.png" width="300"/>
-  </a>
-</p>
-
--->
-
+O teu nome guithub e depois na src o link para o repositorio
 <p float="left" align="center">
     &nbsp;
   <a href="https://github.com/luis-ffe/42-common-core">
@@ -80,6 +67,7 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerpiscine.png" width="400"/>
   </a>
 </p>
+-->
 
 --------------------------------------------------------------------------------------------------
 
