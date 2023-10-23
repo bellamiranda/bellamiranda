@@ -17,7 +17,7 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 
 ### OIII
 
-🔭 I’m currently working on ft_printf and get_next_line
+🔭 I’m currently working on ft_printf and get_next_line.
 🔭 I’m currently working on ft_printf and get_next_line
 🔭 I’m currently working on ft_printf and get_next_line
 
