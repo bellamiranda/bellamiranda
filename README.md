@@ -1,4 +1,4 @@
-<h2 align="center"><strong>Luis Carvalho</strong>, Software developer in the making.</h2>
+<h2 align="center"><strong>Isabella Miranda</strong>, Software Engineer Student </h2>
 
 
 <!-- 
@@ -6,10 +6,10 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 -->
 
 <div align="center">
-  <a href="mailto:carvalho96filipe@gmail.com">
+  <a href="mailto:isabellamcl@hotmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/luis-filipe-f-1018ba139/" target="_blank">
+  <a href="LINKED IN AQUI HTTPS" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
 </div>
@@ -90,15 +90,4 @@ SKILL ICONS!
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Luis-ffe&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF" alt="Top Languages">
 </div>
-<!--
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=luis-ffe&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  </a>
-</p>
 
--->
-
---------------------------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------------------------
