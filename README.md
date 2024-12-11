@@ -33,11 +33,6 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
 --------------------------------------------------------------------------------------------------
 # 42 Projects
 
-<p align="center">
-    <a href='https://profile.intra.42.fr/users/ismirand' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
-  </a>
-  </p>
-
 [![LIBFT](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/libftn.png)](https://github.com/bellamiranda/libft) [![FT_PRINTF](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/ft_printfn.png)](https://github.com/bellamiranda/ft_printf)  [![GET_NEXT_LINE](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/get_next_linen.png)](https://github.com/bellamiranda/get_next_line) [![PUSH_SWAP](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/push_swapn.png)](https://github.com/bellamiranda/push_swap) [![SO_LONG](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/so_longn.png)](https://github.com/bellamiranda/so_long) [![PIPEX](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/pipexn.png)](https://github.com/bellamiranda/minitalk) [![PHILO](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/philosophersn.png)](https://github.com/bellamiranda/philosophers) [![MINISHELL](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/minishelln.png)](https://github.com/bellamiranda/42_minishell) [![CUB3D](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/cub3dn.png)](https://github.com/bellamiranda/42_CUB3D) 
 
 --------------------------------------------------------------------------------------------------
