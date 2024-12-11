@@ -31,8 +31,8 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
          https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
 -->
 --------------------------------------------------------------------------------------------------
-# 42 Common Core Projects
-</div>
+# 42 Projects
+
 <p align="center">
     <a href='https://profile.intra.42.fr/users/ismirand' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
   </a>
@@ -45,10 +45,6 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
 <div align="center">
 
 [![bellamiranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellamiranda&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/bellamiranda?tab=repositories) [![bellamiranda's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bellamiranda&layout=compact&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/bellamiranda?tab=repositories)
-
-<p align="center">
-    <img alt="bellamiranda's visitors" src="https://komarev.com/ghpvc/?username=bellamiranda&color=8c36db&style=flat&label=visitors" />
-</p>
 
 </div>
 
