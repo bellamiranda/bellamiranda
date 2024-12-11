@@ -16,7 +16,6 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 <!--
 <p align="center">⬆️   Contact me here   ⬆️</p>
 -->
---------------------------------------------------------------------------------------------------
 
 <p align="center">🌎 Originally from Brazil, currently living in Porto, Portugal.</p>
 <p align="center">🔭 I’m currently working on cpps projects (c++).</p>
@@ -30,7 +29,6 @@ LINKED IN !
 HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-122c
          https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
 -->
---------------------------------------------------------------------------------------------------
 # 42 Projects
 
 [![LIBFT](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/libftn.png)](https://github.com/bellamiranda/libft) [![FT_PRINTF](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/ft_printfn.png)](https://github.com/bellamiranda/ft_printf)  [![GET_NEXT_LINE](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/get_next_linen.png)](https://github.com/bellamiranda/get_next_line) [![PUSH_SWAP](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/push_swapn.png)](https://github.com/bellamiranda/push_swap) [![SO_LONG](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/so_longn.png)](https://github.com/bellamiranda/so_long) [![PIPEX](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/pipexn.png)](https://github.com/bellamiranda/minitalk) [![PHILO](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/philosophersn.png)](https://github.com/bellamiranda/philosophers) [![MINISHELL](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/minishelln.png)](https://github.com/bellamiranda/42_minishell) [![CUB3D](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/cub3dn.png)](https://github.com/bellamiranda/42_CUB3D) 
