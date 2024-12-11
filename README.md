@@ -1,4 +1,4 @@
-<h2 align="center"><strong>Isabella Miranda</strong>, Software Engineer Student </h2>
+<h2 align="center"><strong>Isabella Miranda</strong>, <a href="https://www.42porto.com/">42 Porto</a> student </h2>
 
 
 <!-- 
@@ -13,7 +13,10 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
 </div>
-
+<p align="center">
+    <a href='https://profile.intra.42.fr/users/ismirand' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
+  </a>
+  </p>
 <!--
 <p align="center">⬆️   Contact me here   ⬆️</p>
 -->
@@ -21,16 +24,11 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 
 --------------------------------------------------------------------------------------------------
 
-<p align="center">🌱 I’m currently a <a href="https://www.42porto.com/">42 Porto</a> student by the nickname <code>ismirand</code></p>
-
-<p align="center">🔭 I’m currently working on cub3d and cpp (c++).</p>
+<p align="center">🌎 Originally from Brazil, currently living in Porto, Portugal.
+<p align="center">🔭 I’m currently working on cpps projects (c++) by the nickname <code>ismirand</code></p>.</p>
 <p align="center">🤔 I’m looking for help with everything code related !!</p>
+<p align="center">⚙️ Focused on upgrading my programming skills and diving into software development.</p>
 <p align="center">💬 Open to network and future job opportunities.</p>
-
-<p align="center">
-    <a href='https://profile.intra.42.fr/users/ismirand' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
-  </a>
-  </p>
 
  
 <!-- Usefull links for me and you.
