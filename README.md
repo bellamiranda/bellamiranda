@@ -5,13 +5,13 @@
 LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 -->
 
-<div align="center">
+<!--<div align="center">
   <a href="mailto:isabellamcl@hotmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
   </a>
   <a href="LINKED IN AQUI HTTPS" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
-  </a>
+  </a>-->
 
 <!--
 <p align="center">⬆️   Contact me here   ⬆️</p>
